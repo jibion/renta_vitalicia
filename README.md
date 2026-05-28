@@ -21,20 +21,20 @@ Historical Banco de España deposit rates are used automatically for past years;
 No installation or server required. Just open the HTML file directly in a browser:
 
 ```
-Simulador Renta Vitalicia.html
+simulador.html
 ```
 
 Adjust the parameters in the controls panel:
 
 | Parameter | Description |
 |---|---|
-| Capital | Amount to invest (€) |
-| Age | Age at the time of signing the annuity |
-| Horizon | Number of years to simulate |
-| Deposit rate | Expected APR of the fixed-term deposit |
-| Annuity payout rate | Annual payout rate on the capital |
-| Tax rate | Withholding rate (default 19 %) |
-| Start year | Year the contract is signed |
+| Capital inicial | Amount to invest (€) |
+| Edad al contratar | Age at the time of signing the annuity |
+| Horizonte | Number of years to simulate |
+| Interés depósito fijo | Expected APR of the fixed-term deposit |
+| Renta Vitalicia TAE | Annual payout rate on the capital |
+| IRPF del Ahorro | Withholding rate (default 19 %) |
+| Año de contratación | Year the contract is signed |
 
 ## Tax rules applied
 
