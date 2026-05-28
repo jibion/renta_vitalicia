@@ -2,6 +2,8 @@
 
 **[Live demo](https://jibion.github.io/renta_vitalicia/)**
 
+![Screenshot](screenshot.png)
+
 A browser-based tool to compare a **life annuity (renta vitalicia)** against a **fixed-term deposit (depósito a plazo fijo)** in Spain, applying the current Spanish income tax rules.
 
 ## What it does
